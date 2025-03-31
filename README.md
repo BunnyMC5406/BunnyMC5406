@@ -16,7 +16,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on [**Vulx Network**](https://vulxmc.net)
 - 🌱 I’m currently learning **Python and PHP** for Minecraft Pocketmine
-- 👯 I’m looking to collaborate on **sandbox games** and **web apps**
+- 👯 I’m looking to collaborate on **Sandbox Games** and **Web Apps**
 - 💬 Ask me about **React, Java, and Vite**
 - 📫 Reach me at: **support@minehighstudios.net**
 
