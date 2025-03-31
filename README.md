@@ -24,7 +24,7 @@
 
 ### 📡 Connect with Me
 <p>
-  <a href="https://www.youtube.com/c/Bunny_MC5406" target="blank">
+  <a href="https://www.youtube.com/c/BunnyMC_5406" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bunnymc5406 YouTube" height="30" width="40" />
   </a>
 </p>
