@@ -68,7 +68,5 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bunnymc5406&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnymc5406&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunnymc5406&" alt="GitHub Streak" />
 </p>
