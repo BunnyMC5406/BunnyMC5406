@@ -19,14 +19,14 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
 ---
 
 ### 📡 Connect with Me
-<p align="center">
+<table align="center">
   <a href="https://www.youtube.com/@BunnyMC_5406" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bunnymc5406 YouTube" height="30" width="40" />
   </a>
     <a href="https://discord.gg/7UsSN2Xv7F" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bunnymc5406" height="30" width="40" /></a>
   </a>
-</p>
+</table>
 
 ---
 
