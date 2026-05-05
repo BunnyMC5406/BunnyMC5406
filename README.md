@@ -58,7 +58,7 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Replit_logo_2023.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.simpleicons.org/replit/F26207" width="40" height="40"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/></td>
   <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></td>
