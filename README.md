@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BunnyMC!</h1>
-<h3 align="center">I'm a passionate front and backend developer working with games and websites.</h3>
+<h1 align="center">What's up, I'm BunnyMC!</h1>
+<h3 align="center">I'm a passionate front and backend developer working with the web.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bunnymc5406&label=Profile%20views&color=0e75b6&style=flat" alt="bunnymc5406" />
@@ -13,8 +13,10 @@
 
 ---
 
-### 🚀 About Me
-Hello, I'm currently working on Minehigh Studios which is a private media company. I have lots of fun creating things by using different languages and techniques. I'm currently learning **Python and Javascript**. If you'd like to work with me I work on **Sandbox Games** and **Web Apps**. If you have any questions feel free to ask me over on **support@minehighstudios.net**
+<h3 align="center">🚀 About Me</h3>
+<p align="center">
+Hello, I'm currently working on Minehigh Studios which is a private media company. I have lots of fun creating things by using different languages and techniques. I'm currently learning **Python and Javascript**. If you'd like to work with me I work on <strong>Web Apps</strong>. If you have any questions feel free to ask me over on <a href="mailto:support@minehighstudios.com">support@minehighstudios.com</a>
+</p>
 
 ---
 
