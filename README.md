@@ -18,7 +18,7 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
 
 ---
 
-### 📡 Connect with Me
+<h3 align="center">📡 Connect with Me</h3>
 <table align="center">
   <a href="https://www.youtube.com/@BunnyMC_5406" target="blank">
     <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bunnymc5406 YouTube" height="30" width="40" /></td>
@@ -30,7 +30,7 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
 
 ---
 
-### 🧠 Languages I Use
+<h3 align="center">Languages I Use</h3>
 <table align="center">
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></td>
@@ -44,7 +44,7 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
 
 ---
 
-### 🗃️ Databases I Use
+<h3 align="center">🗃️ Databases I Use</h3>
 <table align="center">
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></td>
@@ -53,7 +53,7 @@ Hello, I'm currently working on Minehigh Studios which is a private media compan
 
 ---
 
-### 🔧 Tools & Frameworks
+<h3 align="center">🔧 Tools & Frameworks</h3>
 <table align="center">
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></td>
