@@ -15,7 +15,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-Hello, I'm currently working on Minehigh Studios which is a private media company. I have lots of fun creating things by using different languages and techniques. I'm currently learning **Python and Javascript**. If you'd like to work with me I work on <strong>Web Apps</strong>. If you have any questions feel free to ask me over on <a href="mailto:support@minehighstudios.com">support@minehighstudios.com</a>
+Hello, I'm currently working on Minehigh Studios which is a private media company. I have lots of fun creating things by using different languages and techniques. I'm currently learning <strong>Python and Javascript</strong>. If you'd like to work with me I work on <strong>Web Apps</strong>. If you have any questions feel free to ask me over on <a href="mailto:support@minehighstudios.com">support@minehighstudios.com</a>
 </p>
 
 ---
