@@ -1,4 +1,4 @@
-<h1 align="center">What's up, I'm BunnyMC!</h1>
+<h1 align="center">What's up? I'm BunnyMC!</h1>
 <h3 align="center">I'm a passionate front and backend developer working with the web.</h3>
 
 <p align="center">
