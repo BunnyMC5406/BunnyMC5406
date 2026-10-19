@@ -6,19 +6,19 @@
 </p>
 
 <p align="center" alt="typing">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=2E7AF7&background=44EEFF00&center=true&width=435&height=200&lines=Full-Stack+Developer;Working+on+the+web;And+a+few+Minecraft+projects+too;I+also+create+Discord+bots;Commissions+are+currently+closed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=2E7AF7&background=44EEFF00&center=true&width=435&lines=Full-Stack+Developer;Working+on+the+web;And+Minecraft+projects+too;I+also+create+Discord+bots;Commissions+are+closed">
 </p>
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center" alt="about-me">🚀 About Me</h3>
 <p align="center">
 Hello, I'm currently working on Minehigh Studios which is a private tech company. I have lots of fun creating things by using different languages and techniques. I'm currently learning <strong>Python and Javascript</strong>. If you'd like to work with me I work on <strong>Web Apps</strong>. If you have any questions feel free to ask me over on <a href="mailto:support@minehighstudios.com">support@minehighstudios.com</a>
 </p>
 
 ---
 
-<h3 align="center">📡 Connect with Me</h3>
+<h3 align="center" alt="connect-with-me">📡 Connect with Me</h3>
 <table align="center">
   <a href="https://www.youtube.com/@BunnyMC_5406" target="blank">
     <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bunnymc5406 YouTube" height="30" width="40" /></td>
@@ -30,7 +30,7 @@ Hello, I'm currently working on Minehigh Studios which is a private tech company
 
 ---
 
-<h3 align="center">🐍 Languages I Use</h3>
+<h3 align="center" alt="languages">🐍 Languages I Use</h3>
 <table align="center">
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></td>
@@ -44,7 +44,7 @@ Hello, I'm currently working on Minehigh Studios which is a private tech company
 
 ---
 
-<h3 align="center">🗃️ Databases I Use</h3>
+<h3 align="center" alt="databases">🗃️ Databases I Use</h3>
 <table align="center">
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></td>
@@ -53,7 +53,7 @@ Hello, I'm currently working on Minehigh Studios which is a private tech company
 
 ---
 
-<h3 align="center">🔧 Tools & Frameworks</h3>
+<h3 align="center" alt="frameworks">🔧 Tools & Frameworks</h3>
 <table align="center">
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></td>
@@ -66,7 +66,7 @@ Hello, I'm currently working on Minehigh Studios which is a private tech company
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" alt="stats">📊 GitHub Stats</h3>
 <p align="center">
   &nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=bunnymc5406" alt="GitHub Stats"/>
 </p>
