@@ -1,14 +1,12 @@
-<h1 align="center">What's up? I'm BunnyMC!</h1>
-<h3 align="center">I'm a passionate front and backend developer working with the web.</h3>
+<h1 align="center">Hey! I'm BunnyMC!</h1>
+<h3 align="center">I'm a passionate full-stack developer working with the web and Minecraft minigames.</h3>
 
-<p align="center">
+<p align="center" alt="profile-views">
   <img src="https://komarev.com/ghpvc/?username=bunnymc5406&label=Profile%20views&color=0e75b6&style=flat" alt="bunnymc5406" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bunnymc5406" alt="bunnymc5406 trophies" />
-  </a>
+<p align="center" alt="typing">
+  <p src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=2E7AF7&background=44EEFF00&width=435&lines=Full-Stack+Developer;Working+on+the+web;And+a+few+Minecraft+projects+too;I+also+create+Discord+bots;Commissions+are+currently+closed)]">
 </p>
 
 ---
