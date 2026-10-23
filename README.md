@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" alt="typing">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=2E7AF7&background=44EEFF00&center=true&width=435&lines=Full-Stack+Developer;Working+on+the+web;And+Minecraft+projects+too;I+also+create+Discord+bots;Commissions+are+closed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=2E7AF7&background=44EEFF00&center=true&width=435&lines=Full-Stack+Developer;Working+on+the+web;And+a+few+Minecraft+projects+too;I+also+create+Discord+bots;Commissions+are+OPEN!">
 </p>
 
 ---
